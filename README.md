@@ -1,4 +1,4 @@
-# Sigma-Genomics
+# Sigma-Genetics
 Project database for storing multiple genes for individuals and querying variants.
 
 ## What this database is for
